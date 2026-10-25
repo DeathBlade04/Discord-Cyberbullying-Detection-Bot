@@ -1,4 +1,4 @@
-# A security and content Rating bot for Discord
+# A security & Content Rating Bot for Discord
 
 MSc Cyber Security project, University of Chester (WB7103 / WB7104).
 
