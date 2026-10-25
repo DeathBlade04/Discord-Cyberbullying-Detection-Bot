@@ -1,4 +1,4 @@
-# AiBot: a security and content moderation bot for Discord
+# A security and content moderation bot for Discord
 
 MSc Cyber Security project, University of Chester (WB7103 / WB7104).
 
