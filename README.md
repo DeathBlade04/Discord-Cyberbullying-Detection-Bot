@@ -123,5 +123,6 @@ members that moderation is automated.
 
 ## Development note
 
+This repository is part of an academic project and is shared for educational purposes.
 Developed with AI assistance (Claude, by Anthropic) for code review, debugging and drafting.
 Every change was tested before being kept, and the test results are reported in the project report.
