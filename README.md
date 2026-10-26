@@ -120,9 +120,3 @@ prints held-out accuracy (about 90%), and writes `models/phishing_forest.json`.
 when the bot runs, is excluded by `.gitignore`, and should be kept private. A real
 deployment would need a retention period, access limited to moderators, and a notice to
 members that moderation is automated.
-
-## Development note
-
-This repository is part of an academic project and is shared for educational purposes.
-Developed with AI assistance (Claude, by Anthropic) for code review, debugging and drafting.
-Every change was tested before being kept, and the test results are reported in the project report.
